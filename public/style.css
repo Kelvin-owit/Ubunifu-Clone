@@ -165,13 +165,12 @@ body {
   }
 
   .show ul {
-    /* opacity: 1; */
+    opacity: 1;
     max-height: 50vh;
   }
 }
 
 /* Sticky Navbar */
-
 .sticky {
   background-color: black;
 }
